@@ -1,2 +1,2 @@
 # 1PP_LABO_III
-Primer parcial laboratorio III - CRUD utilizando TypeScript, AJAX y JSON.
+Primer parcial laboratorio III - CRUD Frontend utilizando TypeScript, AJAX y JSON.
